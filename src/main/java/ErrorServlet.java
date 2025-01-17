@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// プル確認002
+
+>>>>>>> branch 'master' of https://github.com/yy-zawa/EGIt_test.git
 import java.io.IOException;
 
 import jakarta.servlet.ServletException;
