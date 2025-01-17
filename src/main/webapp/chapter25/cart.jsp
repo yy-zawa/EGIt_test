@@ -184,6 +184,8 @@
     }
 </style>
 
+<img src="../chapter25/image/halloween_icon_11.png" width="192" height="192" alt="商品なし" style="display: block; margin: auto;">
+
 <div class="wrapper">
     <h2 class="heading-large">カート</h2>
 
