@@ -12,3 +12,6 @@ public class ErrorServlet extends HttpServlet {
         throw new RuntimeException("サーバーエラーが発生しました。");
     }
 }
+
+
+future01
