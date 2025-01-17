@@ -1,5 +1,3 @@
-// プル確認
-
 import java.io.IOException;
 
 import jakarta.servlet.ServletException;
