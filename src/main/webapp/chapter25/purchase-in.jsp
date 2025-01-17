@@ -250,6 +250,9 @@
                 </div>
             </c:when>
             <c:otherwise>
+            	<div class="wrapper">
+            		<img src="../chapter25/image/halloween_icon_11.png" width="192" height="192" alt="商品なし" style="display: block; margin: auto;">
+            	</div>
                 <div class="empty-cart">
                     <p>カートに商品がありません。</p>
                 </div>
