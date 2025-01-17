@@ -104,9 +104,11 @@
     }
 </style>
 
+<img src="../chapter25/image/halloween_icon_3.png" width="192" height="192" alt="ログイン画像" style="display: block; margin: auto;">
+
 <div class="wrapper">
 	<div>
-		<img src="../chapter25/image/halloween_icon_3.png" width="192" height="192" alt="ログイン画像" style="display: block; margin: auto;">
+<!-- 		<img src="../chapter25/image/halloween_icon_3.png" width="192" height="192" alt="ログイン画像" style="display: block; margin: auto;"> -->
     </div>
     <h2 class="heading-large">Login</h2>
     <div class="email">
