@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee
+	https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+	version="6.0">
+
+	<!-- テキストより記載 -->
+<!-- 	<servlet> -->
+<!-- 		<servlet-name>hello3</servlet-name> -->
+<!-- 		<servlet-class>chapter4.Hello3</servlet-class> -->
+<!-- 	</servlet> -->
+<!-- 	<servlet-mapping> -->
+<!-- 		<servlet-name>hello3</servlet-name> -->
+<!-- 		<url-pattern>/chapter4/hello3</url-pattern> -->
+<!-- 	</servlet-mapping> -->
+
+	<!-- Servlet内での「エラーハンドリング」機能（補足） -->
+	<!-- <error-page> -->
+	<!-- 例外タイプを指定 -->
+	<!-- <exception-type>java.lang.Exception</exception-type> -->
+	<!-- エラーページ (JSP) を指定 -->
+	<!-- <location>/error.jsp</location> -->
+	<!-- </error-page> -->
+
+	<!-- chapter10_複数のフィルタ -->
+<!-- 	<filter> -->
+<!-- 		<filter-name>hellofilter</filter-name> -->
+<!-- 		<filter-class>chapter10.HelloFilter</filter-class> -->
+<!-- 	</filter> -->
+<!-- 	<filter-mapping> -->
+<!-- 		<filter-name>hellofilter</filter-name> -->
+<!-- 		<url-pattern>/chapter3/hello</url-pattern> -->
+<!-- 	</filter-mapping> -->
+
+<!-- 	<filter> -->
+<!-- 		<filter-name>hellofilter2</filter-name> -->
+<!-- 		<filter-class>chapter10.HelloFilter2</filter-class> -->
+<!-- 	</filter> -->
+<!-- 	<filter-mapping> -->
+<!-- 		<filter-name>hellofilter2</filter-name> -->
+<!-- 		<url-pattern>/chapter3/hello</url-pattern> -->
+<!-- 	</filter-mapping> -->
+
+</web-app>
+
